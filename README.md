@@ -1,0 +1,2 @@
+# stock-market-monte-carlo-simulation
+Analysing the stock prices using Geometric Brownian motion and applying Monte Carlo simulations. Important quantities like Sharpe ratio and Beta-Scale (volatility) of a given stock were computed using MC Simulations for a more in depth analysis of the stock. The project also analyses the market risk of given stock referenced with a risk-free asset. Other essential indicators of stock health were also computed, for example, Beta Value, Sharpe Ratio and Equity Risk Premium.
